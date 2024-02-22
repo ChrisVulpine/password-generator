@@ -33,4 +33,4 @@ THEN the password is either displayed in an alert or written to the page<br>
 
 ## Screenshot Example
 
-![alt text](<Screenshot 2024-02-21 at 10.21.28 PM.png>)
+![alt text](<./assets/images/Screenshot-Provided.png>)
